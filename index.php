@@ -11,9 +11,11 @@
     <title>Opheham</title>
   </head>
   <body>
-    <div class="container-fluid">
-        <button id="takePhoto" class="btn btn-primary">Prendre une photo</button>
-    </div>
+
+    <iframe src="webcam.php"
+            width="650"
+            height="500"
+            frameborder="0"></iframe>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
