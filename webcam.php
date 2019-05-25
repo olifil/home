@@ -1,2 +1,1 @@
-<img src="http://192.168.1.38:8081/"
-     alt="http://192.168.1.38:8081/">
+<img src="http://192.168.1.38:8081?action=stream" alt="">

@@ -13,8 +13,8 @@
   <body>
 
     <iframe src="webcam.php"
-            width="650"
-            height="500"
+          width="650"
+            height="600"
             frameborder="0"></iframe>
 
     <!-- Optional JavaScript -->
